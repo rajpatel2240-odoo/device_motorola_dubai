@@ -19,4 +19,6 @@
     <!-- Whether to show a preference item for regulatory information in About phone -->
     <bool name="config_show_regulatory_info">true</bool>
 
+    <string name="maintainer_name">Suraj Das</string>
+    <string name="maintainer_telegram">https://t.me/surajdazz</string>
 </resources>
