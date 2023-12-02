@@ -61,3 +61,6 @@ VENDOR_SECURITY_PATCH := 2023-08-01
 
 # inherit from the proprietary version
 include vendor/motorola/dubai/BoardConfigVendor.mk
+
+#BCR
+$(call inherit-product, vendor/bcr/bcr.mk)
