@@ -30,9 +30,6 @@ BUILD_FINGERPRINT := motorola/dubai_g/dubai:13/T1RD33.116-33-13/441420-2d5de8:us
 PRODUCT_PACKAGES += \
     RemovePackages
 
-# Inherit some common Gapps stuff.
-$(call inherit-product, vendor/gapps/arm64/arm64-vendor.mk)
-
 BUILD_FINGERPRINT := motorola/dubai_g/dubai:13/T1RD33.116-33-3/f829db-a0c97:user/release-keys
 
 # Remove unwanted packages

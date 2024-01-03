@@ -493,12 +493,6 @@
     <!-- Pocket Lock -->
     <bool name="config_pocketModeSupported">true</bool>
 
-    <!-- Default value for performant auth feature. -->
-    <bool name="config_performantAuthDefault">true</bool>
-
-    <!-- Default values for LiveDisplay -->
-    <bool name="config_enableLiveDisplay">true</bool>
-
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_supportSmartPixels">true</bool>
 
