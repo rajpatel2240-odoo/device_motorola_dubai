@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_dubai.mk
+    $(LOCAL_DIR)/lineage_dubai.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_dubai-user \
-    aosp_dubai-userdebug \
-    aosp_dubai-eng
+    lineage_dubai-user \
+    lineage_dubai-userdebug \
+    lineage_dubai-eng
