@@ -7,3 +7,6 @@ debug.force_no_blanking=true
 
 # Storage
 persist.sys.fuse.passthrough.enable=true
+
+# Maintainer
+ro.spos.maintainer=Jasmin_Solanki
